@@ -1,3 +1,12 @@
+# @rmacklin/gulp-purifycss
+
+This is a fork of [`gulp-purifycss`](https://github.com/purifycss/gulp-purifycss)
+which includes the changes from
+[PR #24](https://github.com/purifycss/gulp-purifycss/pull/24) to remove the
+dependency on the deprecated `gulp-util` package.
+
+The original README follows.
+
 # gulp-purifycss
 
 Clean unnecessary CSS with [PurifyCSS](https://github.com/purifycss/purifycss)
