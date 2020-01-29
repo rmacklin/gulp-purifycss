@@ -1,5 +1,5 @@
 {
-  "name": "gulp-purifycss",
+  "name": "@rmacklin/gulp-purifycss",
   "version": "0.2.0",
   "description": "Remove unnecessary css",
   "main": "index.js",
